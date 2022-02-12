@@ -1,8 +1,8 @@
 # Links & Documentation
 
-- Final Repo - https://github.com/bradtraversy/devcamper-api
+- Final Repo - https://github.com/mian-ali/devcamper_Nodejs_Express_mongoDB_Api
 - Final Deployed Project - https://devcamper.io
-- Specs Sheet - https://gist.github.com/bradtraversy/01adb248df70fb29e98c30cf659042cf
+- Specs Sheet - https://gist.github.com/mian-ali/b2c629e09cebaeab5bd4ce92a30e0396
 
 ## Tools
 
@@ -35,7 +35,7 @@
 
 ## Other Info
 
-- Deployment Gist - https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896
+- Deployment Gist - https://gist.github.com/mian-ali/b2c629e09cebaeab5bd4ce92a30e0396
 - Digital Ocean Website ($10 Referral Link) - https://m.do.co/c/5424d440c63a
 - SSH Key Setup - https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
 - HTTP Status Codes - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
