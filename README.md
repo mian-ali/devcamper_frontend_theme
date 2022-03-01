@@ -61,7 +61,7 @@
 - Models/Schemas -https://mongoosejs.com/docs/models.html
 - Middleware - https://mongoosejs.com/docs/middleware.html
 - Aggregate - https://mongoosejs.com/docs/api/aggregate.html#aggregate_Aggregate
-- Relationships & Populate - https://mongoosejs.com/docs/populate.html
+- Relationships & Populate -  https://mongoosejs.com/docs/populate.html
 - Virtuals - https://mongoosejs.com/docs/guide.html#virtuals
 - Statics - https://mongoosejs.com/docs/guide.html#statics
 
